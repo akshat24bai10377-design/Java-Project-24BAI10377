@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Habit Tracker (Java)
 
 ## Introduction
@@ -102,3 +103,6 @@ Also, implementing the streak logic so that it behaves correctly required some t
 
 Your Name
 (BYOP Project Submission)
+=======
+# Java-Project-24BAI10377
+>>>>>>> fdc00f7c2b37bd304cb7b3000fbec1ef7b5c141d
